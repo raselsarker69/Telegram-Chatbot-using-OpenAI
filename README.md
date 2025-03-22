@@ -10,7 +10,8 @@ A smart and fast **Telegram Chatbot** built with [Aiogram](https://docs.aiogram.
 
 ## 📸 Demo
 
-# ![Demo](https://user-images.githubusercontent.com/raselsarker69/demo-image.gif)
+![Demo](https://user-images.githubusercontent.com/raselsarker69/demo-image.gif)
+
 
 ---
 
@@ -19,8 +20,8 @@ A smart and fast **Telegram Chatbot** built with [Aiogram](https://docs.aiogram.
 
 ### 1. Clone the Repository
 ```bash
-        git clone https://github.com/your-username/telegram-openai-chatbot.git
-        cd telegram-openai-chatbot
+git clone https://github.com/your-username/telegram-openai-chatbot.git
+cd telegram-openai-chatbot
 ```
 
 ### 2. Create & Activate Virtual Environment
@@ -29,14 +30,17 @@ python -m venv telebot
 telebot\Scripts\activate   # For Windows
 # OR
 source telebot/bin/activate  # For macOS/Linux
+```
 
 
 ## 3. Setup Environment Variables
+```bash
 BOT_TOKEN=your_telegram_bot_token
 OPENAI_API_KEY=your_openai_api_key
-
+```
 
 ## 4. Install Dependencies
+```bash
 pip install -r requirements.txt
 ```
 

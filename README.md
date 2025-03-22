@@ -1,6 +1,3 @@
-# Telegram-Chatbot-using-OpenAI
-
-
 # 🤖 Telegram Chatbot using OpenAI (GPT-3.5 / GPT-4)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
@@ -13,7 +10,7 @@ A smart and fast **Telegram Chatbot** built with [Aiogram](https://docs.aiogram.
 
 ## 📸 Demo
 
-![Demo](https://user-images.githubusercontent.com/raselsarker69/demo-image.gif)
+# ![Demo](https://user-images.githubusercontent.com/raselsarker69/demo-image.gif)
 
 ---
 
@@ -30,6 +27,7 @@ cd telegram-openai-chatbot
 python -m venv telebot
 telebot\Scripts\activate   # For Windows
 # OR
+```bash
 source telebot/bin/activate  # For macOS/Linux
 
 
@@ -43,7 +41,7 @@ OPENAI_API_KEY=your_openai_api_key
 ## Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ## ✨ Features
@@ -66,19 +64,19 @@ pip install -r requirements.txt
 
 ## 📂 Project Structure
 ```python
-        src/
-        ├── __init__.py
-        ├── helper.py
-        ├── prompt.py
-        notebooks/
-        ├── telebot-notebook.ipynb
-        .env
-        setup.py
-        app.py
-        test.py
-        requirements.txt
+src/
+├── __init__.py
+├── helper.py
+├── prompt.py
+notebooks/
+├── telebot-notebook.ipynb
+.env
+setup.py
+app.py
+test.py
+requirements.txt
 
-
+```
 ---
 
 ## 🤝 Contributing

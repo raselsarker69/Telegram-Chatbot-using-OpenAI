@@ -13,9 +13,12 @@ list_of_files = [
     "setup.py",
     "app.py",
     "notebooks/telebot-notebook.ipynb",
+    "notebooks/echo-bot.py",
     "test.py",
+    "markdown.md",
     "requirements.txt"
 ]
+
 
 for filepath in list_of_files:
     filepath = Path(filepath)

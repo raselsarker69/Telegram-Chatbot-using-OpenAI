@@ -8,12 +8,6 @@ A smart and fast **Telegram Chatbot** built with [Aiogram](https://docs.aiogram.
 
 ---
 
-## 📸 Demo
-
-![Demo](https://user-images.githubusercontent.com/raselsarker69/demo-image.gif)
-
-
----
 
 
 ## 🚀 Getting Started
@@ -23,6 +17,7 @@ A smart and fast **Telegram Chatbot** built with [Aiogram](https://docs.aiogram.
 git clone https://github.com/your-username/telegram-openai-chatbot.git
 cd telegram-openai-chatbot
 ```
+
 
 ### 2. Create & Activate Virtual Environment
 ```bash
